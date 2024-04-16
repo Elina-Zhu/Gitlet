@@ -37,5 +37,5 @@ Example output of the **status** command:
 
 ## Acknowledgment
 
-This is a course project of Berkeley's CS61B: Data Structures. For detailed project description, please look at:
+This project is a part of the coursework for Berkeley's CS61B: Data Structures. For detailed project description, please look at:
 https://sp21.datastructur.es/materials/proj/proj2/proj2
